@@ -5,4 +5,4 @@
 > use parameter first : api_key, and second : field1.
 
 * get
-> just get logs.
+> just get logs csv form data.
